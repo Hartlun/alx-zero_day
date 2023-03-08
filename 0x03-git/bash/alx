@@ -1,7 +1,3 @@
 #!/bin/bsh
-<<<<<<< HEAD
 echo "ALX School is so cool!"
-=======
 echo "ALX"
->>>>>>> aa743f9648ccfe64371434f0dc374fbe2a5aa299
-check
